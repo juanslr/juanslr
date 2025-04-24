@@ -18,70 +18,40 @@
   Languages and Tools:
 </h3>
 <p align="left">
-  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    alt="git" width="40" height="40" />
   </a>
-  <div style="width: 40px; background: white; border: 1px solid #ccc; height: 6px; border-radius: 4px; margin-bottom: 10px;">
-    <div style="width: 80%; height: 100%; background-color: #4CAF50; border-radius: 4px;"></div>
-  </div>
-
-  <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    alt="html5" width="40" height="40" />
   </a>
-  <div style="width: 40px; background: white; border: 1px solid #ccc; height: 6px; border-radius: 4px; margin-bottom: 10px;">
-    <div style="width: 90%; height: 100%; background-color: #4CAF50; border-radius: 4px;"></div>
-  </div>
-
-  <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+    alt="java" width="40" height="40" />
   </a>
-  <div style="width: 40px; background: white; border: 1px solid #ccc; height: 6px; border-radius: 4px; margin-bottom: 10px;">
-    <div style="width: 75%; height: 100%; background-color: #4CAF50; border-radius: 4px;"></div>
-  </div>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+  rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript" width="40" height="40" />
   </a>
-  <div style="width: 40px; background: white; border: 1px solid #ccc; height: 6px; border-radius: 4px; margin-bottom: 10px;">
-    <div style="width: 85%; height: 100%; background-color: #4CAF50; border-radius: 4px;"></div>
-  </div>
-
-  <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+    alt="linux" width="40" height="40" />
   </a>
-  <div style="width: 40px; background: white; border: 1px solid #ccc; height: 6px; border-radius: 4px; margin-bottom: 10px;">
-    <div style="width: 70%; height: 100%; background-color: #4CAF50; border-radius: 4px;"></div>
-  </div>
-
-  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+    alt="mysql" width="40" height="40" />
   </a>
-  <div style="width: 40px; background: white; border: 1px solid #ccc; height: 6px; border-radius: 4px; margin-bottom: 10px;">
-    <div style="width: 65%; height: 100%; background-color: #4CAF50; border-radius: 4px;"></div>
-  </div>
-
-  <!-- PHP -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+    alt="php" width="40" height="40" />
   </a>
-  <div style="width: 40px; background: white; border: 1px solid #ccc; height: 6px; border-radius: 4px; margin-bottom: 10px;">
-    <div style="width: 60%; height: 100%; background-color: #4CAF50; border-radius: 4px;"></div>
-  </div>
-
-  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="python" width="40" height="40" />
   </a>
-  <div style="width: 40px; background: white; border: 1px solid #ccc; height: 6px; border-radius: 4px; margin-bottom: 10px;">
-    <div style="width: 85%; height: 100%; background-color: #4CAF50; border-radius: 4px;"></div>
-  </div>
-</p>
+</p> esto es para el readme de github, quiero que  abajo de cada uno salga una barra de porcentaje fondo blanco y barra verde, que sea pequeña y ajustada para que se vea bonito
 
 
 
