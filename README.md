@@ -1,5 +1,6 @@
 <div align="center">
-<iframe src="https://giphy.com/embed/3og0Iwmo4TUQXIxH44" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></div>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3og0Iwmo4TUQXIxH44" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/black-and-white-pixel-pixelart-3og0Iwmo4TUQXIxH44">via GIPHY</a></p>  
+</div>
 
 <h1 align="left">Hola Mundo</h1>
 
