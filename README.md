@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Aprendiendo cada dia un poquito mas<br>📚 Actualmente estudiando ASIR ...<br></p>
+<p align="left">✨ Aprendiendo cada dia un poquito mas<br>📚Antiguo estudiante de DAW<br>📚 Actualmente estudiando ASIR ...<br></p>
 
 ###
 
