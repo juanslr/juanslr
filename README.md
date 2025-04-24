@@ -1,10 +1,10 @@
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjk1YWl1em45dXN3bzcwbXJyM2NkdHlxdnVmbTluOXh0YnQ4ZDB6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0Iwmo4TUQXIxH44/giphy.gif"  />
+</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanslr&show_icons=true&locale=en&layout=compact" height="150" alt="stats graph" alt="juanslr" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanslr&show_icons=true&locale=en" height="150" alt="stats graph" alt="juanslr" /></p>
-</div>
 <h3 align="center">Apasionado del mundo de la informatica</h3>
 
 <h3 align="left">Connect with me:</h3>
