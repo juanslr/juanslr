@@ -1,59 +1,42 @@
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjk1YWl1em45dXN3bzcwbXJyM2NkdHlxdnVmbTluOXh0YnQ4ZDB6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0Iwmo4TUQXIxH44/giphy.gif" />
-</div>
-<br> <!--Se que el br es terrible, pero es lo que hay-->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanslr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanslr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Profile
 
-<h3 align="center">Apasionado del mundo de la informatica</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juansergiolora" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juansergiolora" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=juanslr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F45296794%3Fu%3D3c2168c00077b642325691492c401f974dcee781%26v%3D4" alt="juanslr hero visual" />
 </p>
 
-<h3 align="left">
-  Languages and Tools:
-</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    alt="java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-  rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-    alt="php" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python" width="40" height="40" />
-  </a>
-</p> esto es para el readme de github, quiero que  abajo de cada uno salga una barra de porcentaje fondo blanco y barra verde, que sea pequeña y ajustada para que se vea bonito
+**Juan.s.l.r** · Frontend or full-stack engineer
 
+## About
 
+> Building useful things and learning in public.
 
-![snake gif](https://github.com/juanslr/juanslr/blob/output/snake.svg)
-###
+- 📍 Based in **Sevilla**
+- 👥 **2** followers · **1** following
+
+*Small, useful work over vague claims.*
+
+## Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Signals
+
+<table>
+<tr><td align="center"><b>8</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>22</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Projects
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=juanslr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F45296794%3Fu%3D3c2168c00077b642325691492c401f974dcee781%26v%3D4" alt="juanslr projects visual" />
+</p>
+
+## Contact
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=juanslr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F45296794%3Fu%3D3c2168c00077b642325691492c401f974dcee781%26v%3D4" alt="juanslr social visual" />
+</p>
+
+<a href="https://github.com/juanslr">GitHub</a>
+
+<p align="center"><sub>Juan.s.l.r · <a href="https://www.gitskins.com/readme-generator?template=community-ashish-singh-chauhan-vfvk">Ashish Singh Chauhan</a> template by <a href="https://www.gitskins.com/creators/ashish11-cyber">@ashish11-cyber</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
